@@ -1,6 +1,6 @@
 # Hello DevOps
 
-A simple Java Maven project demonstrating Continuous Integration
+A simple Java Maven project demonstrating Continuous Integration #testing
 using GitHub Actions.
 
 ## Technologies
